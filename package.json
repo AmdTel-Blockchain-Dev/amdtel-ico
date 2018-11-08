@@ -1,0 +1,32 @@
+{
+  "name": "amdtel-ico",
+  "version": "0.0.1",
+  "description": "Test example of Initial coin Offer",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmdTel-Blockchain-Dev/amdtel-ico.git"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "truffle",
+    "ganache-cli"
+  ],
+  "author": "Kevin Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmdTel-Blockchain-Dev/amdtel-ico/issues"
+  },
+  "homepage": "https://github.com/AmdTel-Blockchain-Dev/amdtel-ico#readme"
+}
